@@ -68,27 +68,6 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 
-## 🖇 VPS Deployment
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ sudo bash setup
-```
-> Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
-> Please input your vars correctly.
-
-```console
-shikhar@MacBook~ $ bash start
-```
-
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
-
-
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
 
 
 ## 🏷 Support
